@@ -1,0 +1,63 @@
+.tamanho {
+  background-color: rgb(173, 173, 173);
+}
+
+#titulo {
+  padding: 3vh;
+  text-align: center;
+  color: black;
+  font-family: "Montserrat", sans-serif;
+}
+
+/*
+@media (max-width: 600px) {
+    .carrossel {
+        width: 100%;
+    }
+    .lead {
+      padding: 0vh;
+    }
+  }
+  
+  @media (min-width: 600px) {
+    .carrossel {
+      width: 60%;
+    }
+  }
+  */
+.lead {
+  margin: 0 auto;
+  width: 100%;
+  padding: 10vh;
+  padding-top: 0%;
+  padding-bottom: 6vh;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.card {
+  margin: 5vh;
+  margin-top: 0%;
+}
+
+h1 {
+  font-size: 50px;
+  color: white;
+  opacity: 0;
+  transform: translateY(-20px);
+  animation: fadeIn 2s forwards;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

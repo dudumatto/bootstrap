@@ -1,0 +1,11 @@
+
+1 - (X) navbar 
+2 - (X) classes para texto
+3 - (X) ícones 
+4 - (X) container
+5 - (X) grid system x
+6 - (X) cards x
+7 - (X) carrossel
+8 - (X) accordion
+9 - (X) forms com formatação e validação x
+10 - (1/2) 2 componentes não usados em aula (que façam sentido na sua página)

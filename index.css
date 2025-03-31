@@ -1,0 +1,53 @@
+.carrossel {
+  margin: 0 auto;
+  width: 100%;
+  background-color: rgb(180, 180, 180);
+}
+
+.tamanho {
+  background-color: rgb(180, 180, 180);
+}
+#titulo {
+  padding: 3vh;
+  text-align: center;
+  font-family: "Boldonse", system-ui;
+  color: black;
+}
+
+.carrossel2 {
+  width: 100%;
+  margin-top: 0vh;
+  background-color: rgb(180, 180, 180);
+  padding: 2vh;
+  padding-top: 2vh;
+}
+
+@media (max-width: 600px) {
+  .carrossel {
+    width: 100%;
+  }
+  .lead {
+    padding: 0vh;
+  }
+}
+
+@media (min-width: 600px) {
+  .carrossel {
+    width: 60%;
+  }
+}
+
+.lead {
+  margin: 0 auto;
+  width: 100%;
+  padding: 10vh;
+  padding-top: 0%;
+  padding-bottom: 6vh;
+}
+.container2 {
+  padding-bottom: 3vh;
+}
+.btn {
+  background-color: transparent;
+  border-color: transparent;
+}
