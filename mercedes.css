@@ -61,3 +61,7 @@ h1 {
     transform: translateY(0);
   }
 }
+.btn {
+  background-color: transparent;
+  border-color: transparent;
+}
