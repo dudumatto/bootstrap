@@ -8,4 +8,4 @@
 7 - (X) carrossel
 8 - (X) accordion
 9 - (X) forms com formatação e validação x
-10 - (1/2) 2 componentes não usados em aula (que façam sentido na sua página)
+10 - (2/2) 2 componentes não usados em aula (que façam sentido na sua página)
